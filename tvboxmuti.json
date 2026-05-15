@@ -1,16 +1,20 @@
 {
     "urls": [
         {
-            "url": "http://feimao.pro",
-            "name": "🚀1-肥猫(推荐)"
+            "url": "http://feimao.net",
+            "name": "🚀肥猫(推荐)"
         },
         {
-            "url": "http://肥猫.com",
-            "name": "🚀2-肥猫(备用)"
+            "url": "http://hello.肥猫.net",
+            "name": "🚀肥猫(备用1)"
+        },
+        {
+            "url": "http://hello.肥猫.net",
+            "name": "🚀肥猫(备用2)"
         },
         {
             "url": "http://www.饭太硬.net/tv",
-            "name": "🚀3-饭太硬(推荐)"
+            "name": "🚀饭太硬(推荐)"
         },
         {
             "url": "http://www.饭太硬.com/tv/",
